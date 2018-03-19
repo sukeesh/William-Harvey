@@ -1,6 +1,6 @@
 # Sample web application for digitilising health care system
 
-My submission for Microsoft Code.Fun.Do 2018 Campus Hackathon held at IIT Roorkee.
+My submission for Microsoft code.fun.do 2018 OnCampus Hackathon held at IIT Roorkee.
 
 ## Landing page
 
@@ -12,7 +12,8 @@ My submission for Microsoft Code.Fun.Do 2018 Campus Hackathon held at IIT Roorke
 
 ### Credentials for testing
 
-**Doctor** 463446795713, **Patient** 825596778924
+**Doctor** - 463446795713 <br>
+**Patient** - 825596778924
 
 ## Technology stack
 
