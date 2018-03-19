@@ -8,9 +8,15 @@ To digitilise health care system. This is developed for *Digital India* theme.
 
 Doctor can easily go through the patient's past records and can accept payments.
 
-## Landing page
+## Screenshots
 
-![Screenshot](https://i.imgur.com/dCjS8qf.png)
+- Landing page
+
+![landing page](https://i.imgur.com/dCjS8qf.png)
+
+- Doctor Dashboard
+
+![doctor](https://i.imgur.com/VwrduEh.png)
 
 ## Scope
 
@@ -29,6 +35,7 @@ Deep learning can be added to suggest doctor about probable disease and cure.
 
 - PHP 7
 - MySQL 5
+- Bootstrap 4
 
 ## Contribution
 
