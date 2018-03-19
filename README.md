@@ -1,10 +1,20 @@
-# Sample web application for digitilising health care system
+# Digitilising health care
 
-My submission for Microsoft code.fun.do 2018 OnCampus Hackathon held at IIT Roorkee.
+Source code for Microsoft code.fun.do 2018 OnCampus Hackathon held at IIT Roorkee.
+
+## Idea
+
+To digitilise health care system. This is developed for *Digital India* theme. 
+
+Doctor can easily go through the patient's past records and can accept payments.
 
 ## Landing page
 
 ![Screenshot](https://i.imgur.com/dCjS8qf.png)
+
+## Scope
+
+Deep learning can be added to suggest doctor about probable disease and cure.
 
 ## Live Version
 
@@ -17,4 +27,9 @@ My submission for Microsoft code.fun.do 2018 OnCampus Hackathon held at IIT Roor
 
 ## Technology stack
 
-![techstack](https://i.imgur.com/zkGzOuF.png)
+- PHP 7
+- MySQL 5
+
+## Contribution
+
+Feel free to contribute.
